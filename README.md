@@ -15,6 +15,9 @@ Eaglercraft 最佳插件网站。--持续更新--，为您带来 Eaglercraft 的
 - The best part? It's 100% <u>free!</u> | 最酷的是？它完全<u>免费</u>！
 
 ## Meet the Developers (Participants*) | 认识开发人员(参与人员*)
+### 嘿！你好，我叫夜影、NightShadow
+为什么我在会这里呢？因为我将此内容*翻译成了中文。。。就只是因为这个。。。好吧。。就只有我一个人翻译了。。哈哈哈 至于。。关于我的。。。我也不知道有啥。。哈哈
+Why am I here? Because I translated this content* into Chinese. . . It's just because of this. . . All right. . I am the only one who translates. . Hahaha. . And about me.... IDK what have...hahaahah So I wasn't Write it* ...
 
 ### Hey there! I'm cobblesteve. | 嘿！你好，"我是鹅卵石(cobblesteve)"。
 I started this project in April, and I wanted it to become the alternative for Eaglercrack. | 我从四月份开始这个项目，希望它能成为 Eaglercrack 的替代品。
