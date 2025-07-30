@@ -1,3 +1,5 @@
+# This version will was translated to Chinese, and if you want English Version Please Visit:(https://github.com/d3faultedd/Eaglercraft-Extras)[https://github.com/d3faultedd/Eaglercraft-Extras.git]  
+
 # Welcome to Eaglercraft Extras!
 The best addons website for Eaglercraft. Constantly updated to bring you the latest versions of Eagler, and providing you with other clients, texture packs, and more!
 
